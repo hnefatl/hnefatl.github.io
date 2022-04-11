@@ -1,0 +1,19 @@
+baseURL = 'http://blog.keith.collister.xyz/'
+languageCode = 'en-gb'
+title = "Keith's Blog"
+theme = 'hello-friend'
+paginate = 10
+
+enableEmoji = true
+enableRobotsTXT = true
+
+[params]
+  contentTypeName = 'posts'
+  defaultTheme = 'dark'
+  showReadingTime = true
+
+[languages]
+  [languages.en]
+    [languages.en.params.logo]
+      logoText = "keith's blog"
+      logoHomeLink = "/"
