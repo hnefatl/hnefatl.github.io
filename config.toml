@@ -1,6 +1,5 @@
 baseURL = 'https://blog.keith.collister.xyz/'
 languageCode = 'en-gb'
-title = "Keith's Blog"
 theme = 'hello-friend'
 paginate = 10
 
@@ -16,4 +15,4 @@ enableRobotsTXT = true
   [languages.en]
     [languages.en.params.logo]
       logoText = "keith's blog"
-      logoHomeLink = "/"
+      logoHomeLink = '/'
