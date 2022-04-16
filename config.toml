@@ -1,6 +1,7 @@
 baseURL = 'https://blog.keith.collister.xyz/'
 languageCode = 'en-gb'
 theme = 'hello-friend'
+title = "keith's blog"
 paginate = 10
 
 enableEmoji = true
